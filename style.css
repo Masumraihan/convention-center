@@ -1,0 +1,17 @@
+.bg-1,
+.bg-2,
+.bg-3{
+    height: 80vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bg-1{
+    background-image: url('./images/people.png') ;
+}
+.bg-2{
+    background-image: url('./images/banner.png') ;
+}
+.bg-3{
+    background-image: url('./images/wedding.png') ;
+}
